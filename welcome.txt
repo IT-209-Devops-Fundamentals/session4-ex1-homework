@@ -1,0 +1,7 @@
+=====================================================
+DỰ ÁN: IT215 - DevOps & Cloud Infrastructure Fundamentals
+Session 04 - Bài tập 1: Khởi tạo Local Repository và Cấu hình danh tính
+Tác giả: Trần Đức Anh (TranDucAnh3103)
+Email: TranDucAnh3103@users.noreply.github.com
+Mục đích: Tệp tin đầu tiên nhằm kiểm tra quy trình Working Tree -> Staging Area -> Commit History.
+=====================================================
