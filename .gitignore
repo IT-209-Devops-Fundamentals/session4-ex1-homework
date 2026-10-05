@@ -1,0 +1,7 @@
+!.gitignore
+!README.md
+!welcome.txt
+!*.png
+!*.jpg
+.env
+*.tmp
